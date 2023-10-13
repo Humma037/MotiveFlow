@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731289701240",
+    "project_id": "motiveflow-18471",
+    "storage_bucket": "motiveflow-18471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731289701240:android:cf84fd8ad619ae0817968d",
+        "android_client_info": {
+          "package_name": "com.motiveflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731289701240-j9lt2i0j6q7uj0dphvibc71fbdl61ct0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rRS71UQgjyVLLOVIfBKfLZmvjOFEKF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731289701240-j9lt2i0j6q7uj0dphvibc71fbdl61ct0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
